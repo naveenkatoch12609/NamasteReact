@@ -1,0 +1,23 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "This is namaste react by Naveen",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naveenkatoch12609/NamasteReact.git"
+  },
+  "keywords": [
+    "namaste",
+    "react"
+  ],
+  "author": "Naveen Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naveenkatoch12609/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/naveenkatoch12609/NamasteReact#readme"
+}
