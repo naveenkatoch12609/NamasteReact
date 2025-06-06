@@ -2,7 +2,6 @@
   "name": "namastereact",
   "version": "1.0.0",
   "description": "This is namaste react by Naveen",
-  "main": "App.js",
   "scripts": {
     "test": "jest"
   },
@@ -19,5 +18,15 @@
   "bugs": {
     "url": "https://github.com/naveenkatoch12609/NamasteReact/issues"
   },
-  "homepage": "https://github.com/naveenkatoch12609/NamasteReact#readme"
+  "homepage": "https://github.com/naveenkatoch12609/NamasteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.15.2"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
 }
