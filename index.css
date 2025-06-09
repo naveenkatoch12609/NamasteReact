@@ -1,3 +1,44 @@
-#heading{
-    color: royalblue;
+.header {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid black;
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+}
+
+.nav-items > ul {
+  display: flex;
+  font-size: 24px;
+  list-style-type: none;
+}
+.nav-items > ul > li {
+  padding: 10px;
+  margin: 10px;
+}
+
+.res-card {
+  height: 450px;
+  width: 200px;
+  padding: 5px;
+  margin: 5px;
+}
+
+.res-card:hover {
+  border: 1px solid black;
+  cursor: pointer;
+}
+.search {
+  padding: 10px;
+}
+
+.res-logo {
+  width: 100%;
+}
+
+.restContainer {
+  display: flex;
+  flex-wrap: wrap;
 }
